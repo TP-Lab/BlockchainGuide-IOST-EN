@@ -482,7 +482,7 @@ Wechat group:
 
 1.Copyright is reserved by TokenPocket<br/>
 2.It is ok to forward or recommend with the purpose of nonprofit when get approval from TokenPocket. At the same time please indicate the source.<br/>
-3.出处：（发布后加入）作者：TokenPocket。<br/>
+3.references：（https://tp-lab.github.io/BlockchainGuide-IOST-EN/#/）author：TokenPocket。<br/>
 4.All rights reserved. those responsible for unauthorized reproduction will be prosecuted。<br/>
 5.TokenPocket reserve all the right for the revisions, updates and final explanations.<br/>
 6.All right for explanations above is for TokenPocket only.<br/>
