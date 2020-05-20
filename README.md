@@ -24,7 +24,7 @@ Take TokenPocket wallet (TP wallet) as example, choosing activation code when yo
 <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589877014166.png" width="50%"><img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589877035326.png" width="50%">
 </figure>
 
-**Creation by Friend**
+### Creation by Friend
 
 This way is to ask other IOST accounts to pay resource fee for new account. Either paying from friend’s IOST account or asking friend to pay for you.<br/>
 Forward information of creating a new account in wallets to your friend, it will be activated after your friend paid. Of course it’s still ok when you are the real one to pay it.
@@ -33,15 +33,15 @@ Forward information of creating a new account in wallets to your friend, it will
 
 在钱包中把创建 IOST 账号产生的订单信息页面发送给好友，由好友代为支付创建 IOST 账号所产生的费用，好友支付成功后就可以激活账号使用了，当然了好友代付这一步你也可以用自己的账号支付。
 
-**Creation by Pledge**
+### Creation by Pledge
 
 This way is to lock up 10 IOST from another IOST account to create a new account. Users can pledge by using IOSTABC explorer to do it, however an iWallet is required to install and log in IOST account before start creation.
 
-**Creation for free**
+### Creation for free
 
 This way would ignite new users and let them join in IOST ecosystem with zero charge. Initial resource fee will be absorbed by partner nodes themselves. Here are two ways to do it.
 
-1、1， Creation for free by TokenPocket
+1、Creation for free by TokenPocket
 
 Users could get IOST activation code for free by joining in TP wallets of IOST community.
 
