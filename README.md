@@ -351,7 +351,7 @@ Note: This function is an advanced feature, please do distribute your access man
 
 ### IOST Explorer
 
-Blockchain explorer is the window to information of blockchain, all contents that have been recorded in blocks can be seen in blockchain explorer. Common IOST Explorers is ABC browser https:// www.IOSTabc.com/ and extremely easy browser https://explorer.IOST.io/
+Blockchain explorer is the window to information of blockchain, all contents that have been recorded in blocks can be seen in blockchain explorer. Common IOST Explorers is ABC browser <a href="https://www.IOSTabc.com/" target="_blank">https://www.IOSTabc.com/</a> and extremely easy browser <a href="https://explorer.IOST.io/" target="_blank">https://explorer.IOST.io/</a>
 All information about IOST can be check from IOST Explorer like basic data: latest blocks, transaction volume, number of accounts, supply of tokens etc. detailed info about account: transaction, balance and pledge of token and partner nodes: rank, votes, number of producing blocks.
 
 ![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589883450093.png "IOST钱包")
