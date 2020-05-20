@@ -1000,4 +1000,8 @@ pre:after {
         background-size: 100% auto !important;
         height: calc(100vw/1.86) !important;
     }
+    
+    .markdown-section {
+        max-width: 90%;
+    }
 }
