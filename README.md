@@ -31,8 +31,6 @@ Forward information of creating a new account in wallets to your friend, it will
 
 ![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589877296797.png "IOST Wallet")
 
-在钱包中把创建 IOST 账号产生的订单信息页面发送给好友，由好友代为支付创建 IOST 账号所产生的费用，好友支付成功后就可以激活账号使用了，当然了好友代付这一步你也可以用自己的账号支付。
-
 ### Creation by Pledge
 
 This way is to lock up 10 IOST from another IOST account to create a new account. Users can pledge by using IOSTABC explorer to do it, however an iWallet is required to install and log in IOST account before start creation.
@@ -41,11 +39,11 @@ This way is to lock up 10 IOST from another IOST account to create a new account
 
 This way would ignite new users and let them join in IOST ecosystem with zero charge. Initial resource fee will be absorbed by partner nodes themselves. Here are two ways to do it.
 
-1、Creation for free by TokenPocket
+**1、Creation for free by TokenPocket**
 
 Users could get IOST activation code for free by joining in TP wallets of IOST community.
 
-2、Creation for free by Jetstream
+**2、Creation for free by Jetstream**
 
 Jetstream is a web plugin wallet, users could create a IOST account directly in Jetstream with free charge. The only thing users need to do is “choosing IOST”from the task of “adding wallets”, then “creating a new wallet”, “recording private key”, “typing in user’s name”, a new free IOST account is created.
 
@@ -70,7 +68,7 @@ Token holder with pledge could vote candidates and decide which one would be par
 
 ### IOST NFT Token
 
-1、IOST official NFT standard protocol
+**1、IOST official NFT standard protocol**
 
 The common Token we knew like IOST is basically the same, each IOST is no different with other IOST, just like 2 pieces of 100RMB. They can be exchanged and divided. However the main feature of NFT is each NFT is a unique mark and two of them cannot be exchanged, also the minimal unit of NFT is 1, can’t be divided as IOST.
 
@@ -92,9 +90,9 @@ https://developers.iost.io/docs/zh-CN/3-smart-contract/Token721.html
 
 Thanks for the partner node XPET and their contribution about fulfilling process of IRC 721 protocol.
 
-4 月 13 日，IOST 链上首个支持 NFT 跨链转移的游戏资产交易平台——掠宝网正式上线。
+The first game assets exchange platform which support NFT cross-chain transfer in IOST blockchain was launched on Apr 13th ----It is the LOOT platform.
 
-2、NFT assets exchange platform in IOST blockchain---LOOT
+**2、NFT assets exchange platform in IOST blockchain---LOOT**
 
 ![掠宝网](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589879661287.png "掠宝网")
 
@@ -201,7 +199,7 @@ Click here to find application form: https://IOST-cn.typeform.com/to/S2Ob3x
 Receiving at least 2,100,000 votes (1 IOST=1 vote) is the requirement to be a partner node, no extra physical technology requirements, IOST will support them in technology with all aspects. However nodes for producing blocks require at least 10,000,000 votes.<br/>
 All partner nodes could be rewarded 4% of total supply, 840,000,000 IOST. Among it, 25% is form selected node rewards, 25% is form block production and 50% is form contribution.
 
-2、Acknowledge of IOST partner nodes
+**2、Acknowledge of IOST partner nodes**
 
 Name, total votes, annualized return and number of producing blocks etc. all details of partner nodes can be check from IOST ABC block explorer.
 
@@ -250,7 +248,7 @@ Lightning Swap is a very quick way to exchange one token to IOST. It is like “
 
 ![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589882209751.png "IOST钱包")
 
-**Purchasing by fiat currency**<br/>
+Purchasing by fiat currency<br/>
 
 Users could purchase IOST Token directly in TokenPocket wallet using fiat currency. Transfer the IOST you purchased to your IOST account after trade being finished.
 
@@ -287,7 +285,7 @@ For example, transfer volume, receiving account and memo information are must wh
 
 To provide more easier ways to content varies users for transfer, there are direct transfer, address book transfer and QR code transfer etc. for users to choose.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589862159720.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589957897901.png "IOST钱包")
 
 Direct transfer: click “confirmation” when you finished typing in information of receiving account, quantity of transfer and memo.
 
