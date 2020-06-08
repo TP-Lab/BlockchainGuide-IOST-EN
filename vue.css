@@ -996,8 +996,8 @@ pre:after {
 
 @media screen and (max-width: 767px) {
     section.cover {
-        background: url(https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589892694785.png) no-repeat !important;
+        background: url(https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1591600300980.png) no-repeat !important;
         background-size: 100% auto !important;
-        height: calc(100vw/1.86) !important;
+        height: calc(100vw/0.7) !important;
     }
 }

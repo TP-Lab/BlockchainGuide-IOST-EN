@@ -51,7 +51,16 @@ Jetstream is a web plugin wallet, users could create a IOST account directly in 
 <img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589877820126.png" width="50%"><img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589877837683.png" width="50%">
 </figure>
 
-Moreover, private key is a length more than 64 bits/characters, it is really hard to remember. Jetstream provide storing key to Google Cloud which is dual-encryption. It’s up to users whether use it or not.<br/>A IOST account is ok to do receiving& sending tokens, voting to partner nodes etc.<br/>A IOST account is ok to do receiving& sending tokens, voting to partner nodes etc.
+Moreover, private key is a length more than 64 bits/characters, it is really hard to remember. Jetstream provide storing key to Google Cloud which is dual-encryption. It’s up to users whether use it or not.<br/>A IOST account is ok to do receiving& sending tokens, voting to partner nodes etc.<br/>
+
+**3、Get back the wallet**
+
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1591600143467.png "IOST Wallet")
+
+When users accidently unload a IOST wallet and it’s ok to get it back with private key. With private key, the user can import IOST wallet again and all assets and information inside keep the same.
+The user install TokenPocket first, choosing “I have wallet”, selecting “IOST wallet”, adding account and importing private key, setting a password for wallet and clicking “import wallet”. Users’ IOST wallet is got back successfully.
+
+
 
 ## IOST Token and Wallet
 
