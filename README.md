@@ -245,7 +245,7 @@ From IOST block explorer like iostabc，the token issued by yourself can be seen
 
 **1、How do you get hold of IOST ?**
 
-Users can purchase IOST Token by trading from exchanges, spot swap and fiat currency.
+Users can purchase IOST Token by trading from exchanges and spot swap.
 
 Trading on Exchanges
 
@@ -256,12 +256,6 @@ Lightning Swap
 Lightning Swap is a very quick way to exchange one token to IOST. It is like “on the counter” trading model in Bank, trades can be done in the real time.
 
 ![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589882209751.png "IOST钱包")
-
-Purchasing by fiat currency<br/>
-
-Users could purchase IOST Token directly in TokenPocket wallet using fiat currency. Transfer the IOST you purchased to your IOST account after trade being finished.
-
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589882253327.png "IOST钱包")
 
 ### How to transfer IOST?
 
@@ -333,8 +327,6 @@ In addition to the functions have been introduced above, there are lots of other
 ### IOST assets collection
 
 Assets collection is collecting assets to assigned account from all of your other IOST accounts. Users could assign which one and others will be receiving account and sending account by hand. The more accounts will be collected and the longer time will be taken for block production confirmation. There might have one or several accounts, process of confirmation fail. However it is totally no influence with other okay processes and loss of assets. Users can transfer one more time for the fail ones when network is stable later.
-
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589883287939.png "IOST钱包")
 
 ### IOST white list
 
