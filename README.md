@@ -21,7 +21,7 @@ Most of new users don’t know how to use resources paying fee to create an acco
 Take TokenPocket wallet (TP wallet) as example, choosing activation code when you are the first time to create IOST account. This way is to convert resource fee to fiat currency, Alipay, Wechat or Paypal are available to pay for the resource fee which is very easy for new users to operate.
 
 <figure class="half">
-<img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589877014166.png" width="50%"><img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589877035326.png" width="50%">
+<img src="https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589877014166.png" width="50%"><img src="https://gz.bcebos.com/tp-upload/newBanner/iost-en-1.png" width="50%">
 </figure>
 
 ### Creation by Friend
@@ -29,7 +29,7 @@ Take TokenPocket wallet (TP wallet) as example, choosing activation code when yo
 This way is to ask other IOST accounts to pay resource fee for new account. Either paying from friend’s IOST account or asking friend to pay for you.<br/>
 Forward information of creating a new account in wallets to your friend, it will be activated after your friend paid. Of course it’s still ok when you are the real one to pay it.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589877296797.png "IOST Wallet")
+![](https://gz.bcebos.com/tp-upload/newBanner/iost-en-2.png 'IOST Wallet')
 
 ### Creation by Pledge
 
@@ -55,12 +55,10 @@ Moreover, private key is a length more than 64 bits/characters, it is really har
 
 **3、Get back the wallet**
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1591600143467.png "IOST Wallet")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1591600143467.png 'IOST Wallet')
 
 When users accidently unload a IOST wallet and it’s ok to get it back with private key. With private key, the user can import IOST wallet again and all assets and information inside keep the same.
 The user install TokenPocket first, choosing “I have wallet”, selecting “IOST wallet”, adding account and importing private key, setting a password for wallet and clicking “import wallet”. Users’ IOST wallet is got back successfully.
-
-
 
 ## IOST Token and Wallet
 
@@ -103,7 +101,7 @@ The first game assets exchange platform which support NFT cross-chain transfer i
 
 **2、NFT assets exchange platform in IOST blockchain---LOOT**
 
-![掠宝网](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589879661287.png "掠宝网")
+![掠宝网](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589879661287.png '掠宝网')
 
 LOOT Website：www.xloot.io
 
@@ -158,20 +156,20 @@ Note: voting rewards are not automatically divided in voter’s IOST account, th
 
 Choosing the node you are going to vote on voting window page of IOST wallets, clicking button of “vote”, typing in number of IOST you are going to vote and completing the voting process.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589880160670.png "IOST钱包")
+![](https://gz.bcebos.com/tp-upload/newBanner/iost-en-3.png 'IOST钱包')
 
 - Vote by IOSTABC blockchain explorer
 
 Choosing the node you are going to vote on voting window page of IOSTABC, clicking button of “vote” and completing the voting process.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589881605335.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589881605335.png 'IOST钱包')
 
 - Vote by IOST voting tool
   IOST voting tool was developed by partner node “LieBI”，it is a tool for vote and dividend on the blockchian. Voters could get daily dividends with clicking one button.
 
 IOST voting tool is a type of H5 (HTML5) product, users can join in voting tool and log in IOST account via DApp explorer, voting to nodes of IOST, receiving rewards and redemption operations etc.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860618067.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589860618067.png 'IOST钱包')
 
 - Special Voting method----Mining pool:
   Mining pool is a financing mechanism based on PoS verification, users get rewards from mining pool by using IOST Token.
@@ -182,7 +180,7 @@ Mining process in LieBi IOST mining pool is converting IOST to VOST, 1 VOST=1 IO
 
 Different with votes for ordinary nodes, redemption in Leibi pool is process of stopping mining. It is the way to revert VOST to IOST. Users could choose redemption through normal process which waits for 3days or choose Lightning redemption with a certain charge which get IOST immediately.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589881823278.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589881823278.png 'IOST钱包')
 
 **Huobi IOST mining pool**
 
@@ -190,7 +188,7 @@ Mining process in Huobi IOST mining pool is converting IOST to HPT. HPT is the t
 
 Moving IOST to huobi pool account is a must before you start to mine, and then voting to nodes on the page of mining of vote.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589881365394.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589881365394.png 'IOST钱包')
 
 ### IOST partner nodes
 
@@ -212,12 +210,12 @@ All partner nodes could be rewarded 4% of total supply, 840,000,000 IOST. Among 
 
 Name, total votes, annualized return and number of producing blocks etc. all details of partner nodes can be check from IOST ABC block explorer.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589881223203.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589881223203.png 'IOST钱包')
 
 Moreover, pay attention to quarter ranking of partner nodes, it will help us to vote those who really contributed well to the community.
 
 Here are part of outstanding IOST partner nodes<br/>
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589881141368.png "IOST钱包")
+![](https://gz.bcebos.com/tp-upload/newBanner/iost-en-4.png 'IOST钱包')
 
 ### Token issuance based on IOST
 
@@ -227,7 +225,7 @@ Anyone could issue token from IOST mainnet. It is very easy to do it, there is �
 
 Found application of IOST one-button issuance from specific IOST interface in TP wallets and open it.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589881889137.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589881889137.png 'IOST钱包')
 
 Typing in Token name, issuance volume, accuracy and illustration of token and then clicking “creation”, with signal of success to click issuance.
 
@@ -239,7 +237,7 @@ An iWallet plugin wallet is required to download and install before using IOST T
 Log in iWallet, typing 4 key elements of Token name, issuance volume, accuracy and illustration of token in “one-button issuance of token” website http://www.iosttool.com/ , enjoying the token issued by yourself.<br/>
 From IOST block explorer like iostabc，the token issued by yourself can be seen on it with issuer, name of token, illustration of token and number of holders etc. IOST wallets are asked to apply for recording tokens if you want to manage the tokens issued by yourself in your wallets.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589882062078.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589882062078.png 'IOST钱包')
 
 ### IOST Token information
 
@@ -255,7 +253,7 @@ Lightning Swap
 
 Lightning Swap is a very quick way to exchange one token to IOST. It is like “on the counter” trading model in Bank, trades can be done in the real time.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589882209751.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589882209751.png 'IOST钱包')
 
 ### How to transfer IOST?
 
@@ -263,7 +261,7 @@ Lightning Swap is a very quick way to exchange one token to IOST. It is like “
 
 There must be enough IOST resources stored in an account before transfer. The resources are iRAM which need to be purchased by IOST and iGAS which need to be pledged by IOST.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589882688949.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589882688949.png 'IOST钱包')
 
 (2）Three ways of transfer
 
@@ -275,20 +273,20 @@ This way is Transfer between individual IOST accounts, no need memo information,
 
 This way is withdraw IOST tokens of exchanges to your own wallet/IOST account, no need memo information. For example, only information of IOST wallet account, quantity of IOST you are going to withdraw is required to take IOST out from Huobi Exchange.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589882793256.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589882793256.png 'IOST钱包')
 
 - Transfer from IOST wallet accounts to exchanges
 
 From above information you have known that creation of IOST account consumes certain resources. Exchanges choose all IOST deposit accounts the same to save cost. The only information to recognize different users is memo information. Thus, this way is asking users to make sure memo information created per rules of exchanges correct.
 For example, transfer volume, receiving account and memo information are must when users try to deposit IOST to Huobi account. No memo (label of address) information will make transfer fail.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589882918549.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589882918549.png 'IOST钱包')
 
 (3）Easier ways to transfer
 
 To provide more easier ways to content varies users for transfer, there are direct transfer, address book transfer and QR code transfer etc. for users to choose.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589957897901.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589957897901.png 'IOST钱包')
 
 Direct transfer: click “confirmation” when you finished typing in information of receiving account, quantity of transfer and memo.
 
@@ -314,7 +312,7 @@ The most common functions are receiving and sending tokens via IOST wallets. How
 
 IOST Token is like a ticket for all Dapps in IOST ecosystem. Holders could enjoy all DApps via wallet browser of supporting IOST DApp. Take game DApps for example, there are over 60 types of game issued on IOST blockchain. Token holders could not only enjoy all kinds of games like raising pets, card strategies and world of monsters but also get dividends from games like encrypted three kingdoms and attacking cities etc.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589883131663.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589883131663.png 'IOST钱包')
 
 3、Trade in centralized and decentralized exchanges
 
@@ -332,7 +330,7 @@ Assets collection is collecting assets to assigned account from all of your othe
 
 DApp white list is to authorize a certain DApp, no need repetitive operations when specific contract is already in white list. Sometimes when we enjoy a DApp and have to interact with the contract, repetitive authorizations are an awful experience.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589883332729.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589883332729.png 'IOST钱包')
 
 ### Access management
 
@@ -342,7 +340,7 @@ Owner: It’s ownership of account, managing Active and other roles. Approval is
 
 Active: It’s for ordinary use, transfer, vote and other turn of accounts.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589883386004.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589883386004.png 'IOST钱包')
 
 In addition to initial access management, TokenPocket is ok to add, delete and turn a lot of owner/active managements. These functions will meet users with requirement of multi-assignment. With the operation of adding/changing access management of IOST accounts, a new key pair (public key& private key) will be created, please do make sure you will keep well the new private key and default access management in maximum is 100 and can not be revised.
 
@@ -353,7 +351,7 @@ Note: This function is an advanced feature, please do distribute your access man
 Blockchain explorer is the window to information of blockchain, all contents that have been recorded in blocks can be seen in blockchain explorer. Common IOST Explorers is ABC browser <a href="https://www.IOSTabc.com/" target="_blank">https://www.IOSTabc.com/</a> and extremely easy browser <a href="https://explorer.IOST.io/" target="_blank">https://explorer.IOST.io/</a>
 All information about IOST can be check from IOST Explorer like basic data: latest blocks, transaction volume, number of accounts, supply of tokens etc. detailed info about account: transaction, balance and pledge of token and partner nodes: rank, votes, number of producing blocks.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589883450093.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589883450093.png 'IOST钱包')
 
 ### Adjustment of wallets position
 
@@ -363,13 +361,13 @@ Users could adjust wallets position to make sure they see the account being used
 
 As IOST ecosystem users, they could get latest price, news and articles of IOST via browsers.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589883505259.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589883505259.png 'IOST钱包')
 
 ## IOST developer and wallets
 
 IOST is a new generation blockchain with high performance, scalable, stable infrastructure and excellent underlying architecture. More and more developers are attracted to join IOST ecosystem. However lack knowledge of public chain and no enough tools for developers to use, the action of development on blockchain is more difficult than traditional development for developers.
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589883577124.png "IOST钱包")
+![](https://gz.bcebos.com/tp-upload/newBanner/iost-en-5.png 'IOST钱包')
 
 A wallet as the entrance of DApps，its role is not only help users to enjoy DApp but also help DApp to win more users. At the same time, it needs to bring good experiences to users and public chain and also bring power to developers as well. That’s the reason wallets will provide tools to support IOST developers.
 
@@ -542,7 +540,7 @@ SDK link
 </a>
 </main>
 
-![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589863338679.png "IOST钱包")
+![](https://tp-upload.cdn.bcebos.com/banner/tokenpocket-1589863338679.png 'IOST钱包')
 
 Wechat group:
 
